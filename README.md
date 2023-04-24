@@ -11,7 +11,7 @@ sg.theme_previewer()
 ```
 
 Конструкция окна:
-'''python
+```python
 import PySimpleGUI as sg
 
 layout = [[sg.Text('Very basic Window')],
